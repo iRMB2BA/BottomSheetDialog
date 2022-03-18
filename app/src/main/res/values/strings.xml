@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BottomSheetDialog</string>
+    <string name="share">Share</string>
+    <string name="lucas_moro">Lucas Moro</string>
+    <string name="subscribe_om_my_channel">Subscribe om my channel</string>
+    <string name="subscribed">SUBSCRIBED</string>
+    <string name="enable_notifications">Enable notifications</string>
+    <string name="imageview">ImageView</string>
+    <string name="share_channel">Share Channel</string>
+    <string name="share2">SHARE</string>
+    <string name="share_channel2">Share channel</string>
+</resources>
